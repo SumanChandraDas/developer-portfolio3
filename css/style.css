@@ -55,3 +55,6 @@ h1{
     border-image: linear-gradient(#f6b73c, #4d9f0c);
     border-image-slice: 9;
 }
+.text-center-align{
+    text-align: center;
+}
